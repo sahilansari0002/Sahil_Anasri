@@ -25,7 +25,7 @@ const achievements: Achievement[] = [
     id: 13,
     title: 'Top 1000 - SBI Youth Ideathon 2025',
     description: 'Selected among the Top 1000 teams out of 44,000+ participants across India for the SBI Youth Ideathon 2025. Represented our team with the slogan "Nayi Soch, Naya Bharat" at the Grand Finale held at the IIT Delhi campus.',
-    image: '/achievement/iit with cert.jpg',
+    image: 'https://sahilansari0002.github.io/Sahil_Ansari/achievement/iit with cert.jpg',
     date: '2025',
     category: 'Innovation & Ideathons'
   },
