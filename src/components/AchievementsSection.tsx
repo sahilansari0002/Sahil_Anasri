@@ -34,7 +34,7 @@ const achievements: Achievement[] = [
     id: 14,
     title: 'Google Cloud Arcade Champion',
     description: 'Achieved the Champion Milestone in the Google Cloud Arcade event. Received exclusive gifts and recognition from Google Cloud for outstanding performance and completing all tasks successfully.',
-    image: '/achievement/champinion.jpg',
+    image: 'https://github.com/sahilansari0002/Sahil_Anasri/tree/main/achievement/achievement/champinion.jpg',
     date: '2025',
     category: 'Cloud & Certifications'
   },
